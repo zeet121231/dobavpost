@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(0, 138, 230);
+}
+form{
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+}
+textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+input{
+    background-color: rgb(255, 255, 255);
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 153, 255);
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #0057a8;
+}
+label{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
